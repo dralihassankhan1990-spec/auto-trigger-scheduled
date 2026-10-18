@@ -1,0 +1,31 @@
+task_id,project,task_name,owner,due_date,status,blocks_milestone
+ATL-101,Project Atlas — LIMS Rollout,Finalize UAT test cases for Sample Receiving,Ayesha K.,2026-10-02,In Progress,Yes
+ATL-102,Project Atlas — LIMS Rollout,Sign off QMS module requirements,Bilal R.,2026-10-06,In Progress,Yes
+ATL-103,Project Atlas — LIMS Rollout,Migrate legacy lab records (batch 3),Sana M.,2026-10-07,Not Started,No
+ATL-104,Project Atlas — LIMS Rollout,Fix worksheet print layout (A4),Usman T.,2026-10-11,In Progress,No
+ATL-105,Project Atlas — LIMS Rollout,Conduct analyst training — Group B,Ayesha K.,2026-10-13,Not Started,No
+ATL-106,Project Atlas — LIMS Rollout,Review audit-log retention policy,Bilal R.,2026-10-15,In Progress,Yes
+ATL-107,Project Atlas — LIMS Rollout,Configure role permissions for SRU,Sana M.,2026-10-17,In Progress,No
+ATL-108,Project Atlas — LIMS Rollout,Prepare go-live checklist v2,Usman T.,2026-10-18,Not Started,Yes
+ATL-109,Project Atlas — LIMS Rollout,Validate barcode printer integration,Ayesha K.,2026-10-21,Not Started,No
+ATL-110,Project Atlas — LIMS Rollout,Draft release notes for v2.4,Bilal R.,2026-11-06,Not Started,No
+BCN-201,Project Beacon — Hospital QMS,Approve CAPA for audit finding NC-14,Fatima Z.,2026-09-25,In Progress,Yes
+BCN-202,Project Beacon — Hospital QMS,Update infection-control SOPs,Hassan J.,2026-10-08,In Progress,No
+BCN-203,Project Beacon — Hospital QMS,Schedule internal audit — Pharmacy,Fatima Z.,2026-10-10,Not Started,No
+BCN-204,Project Beacon — Hospital QMS,Close out supplier evaluation forms,Hassan J.,2026-10-14,In Progress,No
+BCN-205,Project Beacon — Hospital QMS,Verify calibration of 12 thermometers,Ali N.,2026-10-16,In Progress,No
+BCN-206,Project Beacon — Hospital QMS,Submit monthly quality dashboard,Fatima Z.,2026-10-17,Not Started,No
+BCN-207,Project Beacon — Hospital QMS,Train new nurses on incident reporting,Ali N.,2026-10-19,Not Started,No
+BCN-208,Project Beacon — Hospital QMS,Review risk register (Q3),Hassan J.,2026-10-22,Not Started,No
+BCN-209,Project Beacon — Hospital QMS,Archive Q2 audit records,Ali N.,2026-11-15,Not Started,No
+BCN-210,Project Beacon — Hospital QMS,Renew ISO surveillance audit booking,Fatima Z.,2026-10-12,Done,Yes
+CDR-301,Project Cedar — Cold Chain Upgrade,Install data loggers in 6 cold rooms,Imran S.,2026-09-16,In Progress,Yes
+CDR-302,Project Cedar — Cold Chain Upgrade,Map temperature zones — Warehouse B,Nadia P.,2026-10-04,In Progress,No
+CDR-303,Project Cedar — Cold Chain Upgrade,Calibrate reefer truck sensors,Imran S.,2026-10-09,In Progress,No
+CDR-304,Project Cedar — Cold Chain Upgrade,Draft excursion response SOP,Nadia P.,2026-10-12,Not Started,No
+CDR-305,Project Cedar — Cold Chain Upgrade,Procure backup generator parts,Imran S.,2026-10-15,In Progress,No
+CDR-306,Project Cedar — Cold Chain Upgrade,Run mock excursion drill,Nadia P.,2026-10-17,Not Started,Yes
+CDR-307,Project Cedar — Cold Chain Upgrade,Validate MKT calculation spreadsheet,Imran S.,2026-10-18,In Progress,No
+CDR-308,Project Cedar — Cold Chain Upgrade,Review vendor SLA — cold storage,Nadia P.,2026-10-20,Not Started,No
+CDR-309,Project Cedar — Cold Chain Upgrade,Publish cold-chain KPI report (Sep),Imran S.,2026-10-30,Not Started,No
+CDR-310,Project Cedar — Cold Chain Upgrade,Decommission old chest freezers,Nadia P.,2026-10-13,Cancelled,No

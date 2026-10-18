@@ -1,0 +1,5 @@
+# Risk Register Auto-Scorer — pinned dependencies
+# Python 3.10+ · 100% local, no network calls at runtime
+openpyxl==3.1.5
+matplotlib==3.6.3
+numpy==1.26.4

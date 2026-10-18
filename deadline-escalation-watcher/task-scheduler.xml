@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!-- Deadline Escalation Watcher — Windows Task Scheduler definition.
+     Import: open Task Scheduler → Import Task → select this file.
+     Runs daily at 07:00. Edit <Command> to match your install folder.
+     by Muhammad Bilal -->
+<Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Description>Deadline Escalation Watcher — daily 7am escalation report (HTML + Excel + log). 100% local.</Description>
+    <Author>Muhammad Bilal</Author>
+  </RegistrationInfo>
+  <Triggers>
+    <CalendarTrigger>
+      <StartBoundary>2026-10-17T07:00:00</StartBoundary>
+      <Enabled>true</Enabled>
+      <ScheduleByDay>
+        <DaysInterval>1</DaysInterval>
+      </ScheduleByDay>
+    </CalendarTrigger>
+  </Triggers>
+  <Principals>
+    <Principal id="Author">
+      <LogonType>InteractiveToken</LogonType>
+      <RunLevel>LeastPrivilege</RunLevel>
+    </Principal>
+  </Principals>
+  <Settings>
+    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
+    <AllowHardTerminate>true</AllowHardTerminate>
+    <StartWhenAvailable>true</StartWhenAvailable>
+    <RunOnlyIfNetworkAvailable>false</RunOnlyIfNetworkAvailable>
+    <Enabled>true</Enabled>
+    <Hidden>false</Hidden>
+    <ExecutionTimeLimit>PT15M</ExecutionTimeLimit>
+  </Settings>
+  <Actions Context="Author">
+    <Exec>
+      <!-- UPDATE the path below to where you saved this folder -->
+      <Command>C:\Automation\05-Auto-Trigger-Scheduled\deadline-escalation-watcher\run_escalation.bat</Command>
+    </Exec>
+  </Actions>
+</Task>

@@ -1,0 +1,26 @@
+report_date,task_id,project,task_name,owner,due_date,severity,bucket,detail
+2026-10-16,ATL-101,Project Atlas — LIMS Rollout,Finalize UAT test cases for Sample Receiving,Ayesha K.,2026-10-02,Critical,Overdue,Overdue by 14 day(s)
+2026-10-16,ATL-102,Project Atlas — LIMS Rollout,Sign off QMS module requirements,Bilal R.,2026-10-06,Critical,Overdue,Overdue by 10 day(s)
+2026-10-16,ATL-103,Project Atlas — LIMS Rollout,Migrate legacy lab records (batch 3),Sana M.,2026-10-07,Critical,Overdue,Overdue by 9 day(s)
+2026-10-16,ATL-104,Project Atlas — LIMS Rollout,Fix worksheet print layout (A4),Usman T.,2026-10-11,High,Overdue,Overdue by 5 day(s)
+2026-10-16,ATL-105,Project Atlas — LIMS Rollout,Conduct analyst training — Group B,Ayesha K.,2026-10-13,High,Overdue,Overdue by 3 day(s)
+2026-10-16,ATL-106,Project Atlas — LIMS Rollout,Review audit-log retention policy,Bilal R.,2026-10-15,Critical,Overdue,Overdue by 1 day(s)
+2026-10-16,ATL-107,Project Atlas — LIMS Rollout,Configure role permissions for SRU,Sana M.,2026-10-17,Medium,Due in 48h,Due in 1 day(s) — 2026-10-17
+2026-10-16,ATL-108,Project Atlas — LIMS Rollout,Prepare go-live checklist v2,Usman T.,2026-10-18,Medium,Due in 48h,Due in 2 day(s) — 2026-10-18
+2026-10-16,ATL-109,Project Atlas — LIMS Rollout,Validate barcode printer integration,Ayesha K.,2026-10-21,Watch,Due this week,Due in 5 day(s) — 2026-10-21
+2026-10-16,BCN-201,Project Beacon — Hospital QMS,Approve CAPA for audit finding NC-14,Fatima Z.,2026-09-25,Critical,Overdue,Overdue by 21 day(s)
+2026-10-16,BCN-202,Project Beacon — Hospital QMS,Update infection-control SOPs,Hassan J.,2026-10-08,Critical,Overdue,Overdue by 8 day(s)
+2026-10-16,BCN-203,Project Beacon — Hospital QMS,Schedule internal audit — Pharmacy,Fatima Z.,2026-10-10,High,Overdue,Overdue by 6 day(s)
+2026-10-16,BCN-204,Project Beacon — Hospital QMS,Close out supplier evaluation forms,Hassan J.,2026-10-14,High,Overdue,Overdue by 2 day(s)
+2026-10-16,BCN-205,Project Beacon — Hospital QMS,Verify calibration of 12 thermometers,Ali N.,2026-10-16,Medium,Due in 48h,Due in 0 day(s) — 2026-10-16
+2026-10-16,BCN-206,Project Beacon — Hospital QMS,Submit monthly quality dashboard,Fatima Z.,2026-10-17,Medium,Due in 48h,Due in 1 day(s) — 2026-10-17
+2026-10-16,BCN-207,Project Beacon — Hospital QMS,Train new nurses on incident reporting,Ali N.,2026-10-19,Watch,Due this week,Due in 3 day(s) — 2026-10-19
+2026-10-16,BCN-208,Project Beacon — Hospital QMS,Review risk register (Q3),Hassan J.,2026-10-22,Watch,Due this week,Due in 6 day(s) — 2026-10-22
+2026-10-16,CDR-301,Project Cedar — Cold Chain Upgrade,Install data loggers in 6 cold rooms,Imran S.,2026-09-16,Critical,Overdue,Overdue by 30 day(s)
+2026-10-16,CDR-302,Project Cedar — Cold Chain Upgrade,Map temperature zones — Warehouse B,Nadia P.,2026-10-04,Critical,Overdue,Overdue by 12 day(s)
+2026-10-16,CDR-303,Project Cedar — Cold Chain Upgrade,Calibrate reefer truck sensors,Imran S.,2026-10-09,High,Overdue,Overdue by 7 day(s)
+2026-10-16,CDR-304,Project Cedar — Cold Chain Upgrade,Draft excursion response SOP,Nadia P.,2026-10-12,High,Overdue,Overdue by 4 day(s)
+2026-10-16,CDR-305,Project Cedar — Cold Chain Upgrade,Procure backup generator parts,Imran S.,2026-10-15,High,Overdue,Overdue by 1 day(s)
+2026-10-16,CDR-306,Project Cedar — Cold Chain Upgrade,Run mock excursion drill,Nadia P.,2026-10-17,Medium,Due in 48h,Due in 1 day(s) — 2026-10-17
+2026-10-16,CDR-307,Project Cedar — Cold Chain Upgrade,Validate MKT calculation spreadsheet,Imran S.,2026-10-18,Medium,Due in 48h,Due in 2 day(s) — 2026-10-18
+2026-10-16,CDR-308,Project Cedar — Cold Chain Upgrade,Review vendor SLA — cold storage,Nadia P.,2026-10-20,Watch,Due this week,Due in 4 day(s) — 2026-10-20
